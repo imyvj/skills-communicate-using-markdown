@@ -3,6 +3,8 @@
 
 Meaning commit message
 
+- [ ] Outline my portfolio
+
 ``` c
 #include<stdio.h>
 int main() {
